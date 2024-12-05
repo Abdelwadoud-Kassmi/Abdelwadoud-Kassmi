@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Abdelwadoud-Kassmi/Abdelwadoud-Kassmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Abdelwadoud Kassmi!  
 
-Here are some ideas to get you started:
+🎓 **Software Engineering Student** | 💻 **Tech Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 💡 I'm passionate about mastering **operating systems** and exploring **compiler design**.  
+- 🧩 I enjoy solving problems and building projects that blend system-level programming with web technologies.  
+- 🌟 My philosophy: **"Don't imitate, Understand"**
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Java, PHP, C, Bash, Python  
+- **Web Development:** HTML/CSS, JavaScript, JEE  
+- **Tools & Platforms:** Git, GitHub, Linux  
+- **Areas of Interest:** Compilers, Operating Systems, Software Design  
+
+---
+
+## 🌍 Connect with Me  
+- **LinkedIn:** https://www.linkedin.com/in/abdelwadoud-kassmi-265256276/
+- **Email:** abdelwadoudkassmi22@gmail.com  
+
+---
